@@ -1,4 +1,4 @@
-# Sveltia CMS Authenticator
+# Sveltia CMS Authenticator for the Floor Street Journal
 
 This simple [Cloudflare Workers](https://workers.cloudflare.com/) script allows [Sveltia CMS](https://github.com/sveltia/sveltia-cms) users to authenticate with [GitHub](https://docs.github.com/en/apps/oauth-apps/building-oauth-apps/authorizing-oauth-apps) (or [GitLab](https://docs.gitlab.com/ee/api/oauth2.html#authorization-code-flow)).
 
